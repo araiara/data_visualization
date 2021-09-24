@@ -1,4 +1,4 @@
-## Data Vizualization
+## Data Visualization
 #### Sales per customer
 ![](../img/sales_per_user.PNG)
 #### Product per category
